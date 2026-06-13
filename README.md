@@ -64,7 +64,7 @@ The easiest way to install is using [Package Control](https://packages.sublimete
 
 ## Manual install
 
-Clean repository in your `Packages` directory.
+Clone repository in your `Packages` directory.
 
 # Command Palette
 
